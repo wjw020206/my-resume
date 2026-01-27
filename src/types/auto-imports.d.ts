@@ -7,6 +7,15 @@
 export {}
 declare global {
   const EffectScope: typeof import('vue').EffectScope
+  const IconCustomG: typeof import('~icons/custom/g').default
+  const IconCustomGithub: typeof import('~icons/custom/github').default
+  const IconCustomGithubOutlined: typeof import('~icons/custom/github-outlined').default
+  const IconCustomJuejinOutlined: typeof import('~icons/custom/juejin-outlined').default
+  const IconCustomMailOutlined: typeof import('~icons/custom/mail-outlined').default
+  const IconCustomPhoneOutlined: typeof import('~icons/custom/phone-outlined').default
+  const IconCustomWOutlined: typeof import('~icons/custom/w-outlined').default
+  const IconCustomWechatOutlined: typeof import('~icons/custom/wechat-outlined').default
+  const IconCustomjuejinOutlined: typeof import('~icons/custom/juejin-outlined').default
   const computed: typeof import('vue').computed
   const createApp: typeof import('vue').createApp
   const customRef: typeof import('vue').customRef
@@ -96,6 +105,21 @@ declare module 'vue' {
   interface GlobalComponents {}
   interface ComponentCustomProperties {
     readonly EffectScope: UnwrapRef<(typeof import('vue'))['EffectScope']>
+    readonly IconCustomGithubOutlined: UnwrapRef<
+      (typeof import('~icons/custom/github-outlined'))['default']
+    >
+    readonly IconCustomJuejinOutlined: UnwrapRef<
+      (typeof import('~icons/custom/juejin-outlined'))['default']
+    >
+    readonly IconCustomMailOutlined: UnwrapRef<
+      (typeof import('~icons/custom/mail-outlined'))['default']
+    >
+    readonly IconCustomPhoneOutlined: UnwrapRef<
+      (typeof import('~icons/custom/phone-outlined'))['default']
+    >
+    readonly IconCustomWechatOutlined: UnwrapRef<
+      (typeof import('~icons/custom/wechat-outlined'))['default']
+    >
     readonly computed: UnwrapRef<(typeof import('vue'))['computed']>
     readonly createApp: UnwrapRef<(typeof import('vue'))['createApp']>
     readonly customRef: UnwrapRef<(typeof import('vue'))['customRef']>
