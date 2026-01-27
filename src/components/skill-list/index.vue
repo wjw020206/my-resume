@@ -39,12 +39,6 @@
           >协同开发、分支管理、项目配置</span
         >等，具备较强的工程实践能力
       </li>
-      <li>
-        熟悉代码开发到上线全流程，对<span class="ml-1">协同开发</span>、<span
-          >分支管理</span
-        >
-        、<span class="mr-1">项目配置</span>等都有较深刻的最佳实践
-      </li>
     </ul>
   </div>
 </template>
