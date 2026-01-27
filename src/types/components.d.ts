@@ -17,11 +17,8 @@ declare module 'vue' {
     ProjectExperience: typeof import('./../components/project-experience/index.vue')['default']
     SectionTitle: typeof import('./../components/base/section-title/index.vue')['default']
     SkillList: typeof import('./../components/skill-list/index.vue')['default']
-    Skills: typeof import('./../components/skills/index.vue')['default']
-    SkillsList: typeof import('./../components/skills-list/index.vue')['default']
     SocialInfo: typeof import('./../components/social-info/index.vue')['default']
     Thanks: typeof import('./../components/thanks/index.vue')['default']
-    UserInfo: typeof import('./../components/user-info/index.vue')['default']
     WorkExperience: typeof import('./../components/work-experience/index.vue')['default']
   }
 }
