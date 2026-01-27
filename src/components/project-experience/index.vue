@@ -27,7 +27,7 @@
       </div>
       <div class="project-experience__level2">结果</div>
       <div class="project-experience__level3">
-        成功将公司原来用的<span class="mx-1"
+        成功将公司原来用的<span class="ml-1"
           >付费第三方文档管理和任务管理工具迁移到内部系统</span
         >，实现核心功能的本地化落地
       </div>
@@ -38,7 +38,6 @@
       </div>
       <div class="project-experience__level3">
         微前端架构提升前端模块独立开发和迭代效率，降低维护成本，<span
-          class="mx-1"
           >为后续功能扩展提供可复用方案</span
         >
       </div>
@@ -57,20 +56,17 @@
         基于<span class="mx-1">uni-app</span>框架完成微信小程序的开发
       </div>
       <div class="project-experience__level3">
-        实现<span class="mx-1">i18n 多语言功能</span>，支持多地域导游使用
+        实现<span class="ml-1">i18n 多语言功能</span>，支持多地域导游使用
       </div>
       <div class="project-experience__level3">
         优化前端交互体验，提升导游操作流畅性
       </div>
       <div class="project-experience__level2">结果</div>
       <div class="project-experience__level3">
-        微信小程序成功上线，<span class="mx-1"
-          >实现导游核心业务流程内网化管理</span
-        >，提升报账与出团流程的效率
+        微信小程序成功上线，<span>实现导游核心业务流程内网化管理</span>，提升报账与出团流程的效率
       </div>
       <div class="project-experience__level3">
         通过 uni-app 跨端能力，减少多端重复开发成本，提高开发与维护效率，<span
-          class="mx-1"
           >为后续上线其他平台提供可复用基础</span
         >
       </div>
@@ -119,9 +115,7 @@
       </div>
       <div class="project-experience__level3">
         基于<span class="mx-1">Electron</span> 开发将网页打包成 exe
-        可执行文件，<span class="mx-1"
-          >同时对 Windows 7 系统进行了兼容处理</span
-        >
+        可执行文件，<span>同时对 Windows 7 系统进行了兼容处理</span>
       </div>
       <div class="project-experience__level3">
         完成了<span class="mx-1">自动读取目录中的数据文件并自动上传记录</span
@@ -132,20 +126,18 @@
         exe 进行了条件编译
       </div>
       <div class="project-experience__level3">
-        对 exe 文件进行基于<span class="mx-1">客户电脑 MAC 地址的加密</span
+        对 exe 文件进行基于<span class="ml-1">客户电脑 MAC 地址的加密</span
         >，确保软件只能在指定机器上运行
       </div>
       <div class="project-experience__level2">结果</div>
       <div class="project-experience__level3">
-        项目成功交付给客户，<span class="mx-1">
-          提高客户芯片工厂内部数据管理效率</span
-        >
+        项目成功交付给客户，<span>提高客户芯片工厂内部数据管理效率</span>
       </div>
       <div class="project-experience__level3">
-        <span class="mx-1">保证内网环境下数据安全</span>，防止敏感数据泄露
+        <span>保证内网环境下数据安全</span>，防止敏感数据泄露
       </div>
       <div class="project-experience__level3">
-        <span class="mx-1">编写了 Electron 打包文件及使用文档</span
+        <span>编写了 Electron 打包文件及使用文档</span
         >，供公司内部其他开发人员参考与复用
       </div>
     </div>
