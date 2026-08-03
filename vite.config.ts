@@ -10,7 +10,7 @@ import IconsResolver from 'unplugin-icons/resolver'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/my-resume/' : '/',
+  base: '/',
   plugins: [
     vue(),
     vueDevTools(),
